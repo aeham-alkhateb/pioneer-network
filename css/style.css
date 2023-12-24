@@ -1,0 +1,53 @@
+body{
+	font-family: 'Inconsolata', monospace;
+	color:#8F7163;
+}
+
+.navbar{
+	background-color:#F0E6D1;
+}
+
+.bottom{
+	position: absolute; bottom: 50px; 
+	color:#FFFFFF;
+	font-size:20px;
+}
+#about-us{
+	background:#f0e6d1;
+	padding-top:50px;
+	padding-bottom:50px;
+	
+}
+#our-services{
+	margin-top:50px;
+	margin-bottom:50px;
+background:#f0e6d1;
+}
+#our-products{
+	
+	padding-top:150px;
+	padding-bottom:150px;
+	font-family: 'Inconsolata', monospace;
+	
+}
+
+.white{
+	color:#B2BABC;
+	font-size:30px;
+}
+.black{
+	color:black;
+}
+#googlemap{
+	margin-top:50px;
+	width:100%; 
+	height:300px;
+	
+}
+#contact-us{
+	
+	padding-bottom:50px;
+	
+	
+}
+#slider{background-color:#f0e6d1;}
